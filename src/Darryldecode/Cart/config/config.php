@@ -16,6 +16,8 @@ return [
 
     'thousands_sep' => env('SHOPPING_THOUSANDS_SEP', ','),
 
+    'quantity_rule' => 1,
+
     /*
      * ---------------------------------------------------------------
      * persistence
